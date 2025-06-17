@@ -1,0 +1,7 @@
+[
+    { "topic": "Binary Search", "description": "Efficient algorithm for finding elements in sorted arrays." },
+    { "topic": "Segment Tree", "description": "Used for range queries and updates." },
+    { "topic": "Trie", "description": "Prefix tree used for string retrieval." },
+    { "topic": "DFS", "description": "Depth-First Search in graph traversal." },
+    { "topic": "BFS", "description": "Breadth-First Search in graph traversal." }
+]
